@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gastos>
+
+<fecha>
+<f01_01_2016>
+<pagador Sandra>
+<importe>243,00</importe>
+<descripcion>Niños</descripcion>
+<pagado>TC</pagado>
+</pagador>
+<f/01_01_2016>
+
+<f02_01_2016>
+<pagador Luis>
+<importe>45,00</importe>
+<descripcion>Ocio</descripcion>
+<pagado>TC</pagado>
+</pagador>
+<pagador Luis>
+<importe>42</importe>
+<descripcion>Alimentación</descripcion>
+<pagado>TC</pagado>
+</pagador>
+<pagador Sandra>
+<importe>257,00</importe>
+<descripcion>Ocio</descripcion>
+<pagado>TC</pagado>
+</pagador>
+</f02_01_2016>
+<f07_01_2016>
+<pagador Sandra>
+<importe>32,00</importe>
+<descripcion>Coche</descripcion>
+<pagado>TC</pagado>
+
+<pagador Luis>
+<importe>428,00</importe>
+<descripcion>Ahorro</descripcion>
+<pagado>CHQ</pagado>
+</pagador>
+</f07_01_2016>
+<f10_01_2016>
+<pagador Luis>
+<importe>930,00</importe>
+<descripcion>Vivienda</descripcion>
+<pagado>CHQ</pagado>
+</pagador>
+
+</f10_01_2016>
+<f12_01_2016>
+<pagador Luis>
+<importe>120,00</importe>
+<descripcion>Alimentación</descripcion>
+<pagado>TC</pagado>
+</pagador>
+</f12_01_2016>
+
+</fecha>
+
+
+</gastos>

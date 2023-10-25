@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Libros>
+<libro1>
+<Título>El Hobbit</Título>
+<Descripción>El día en que Bilbo Bolsón recibe la visita del mago Gandalf y de un grupo de enanos, su plácida existencia de hobbit cambia radicalmente. Elfos, dragones y un anillo mágico se cruzarán en la aventura más fantástica de toda su vida... </Descripción>
+<Autor>J.R.R. Tolkien</Autor>
+<Fecha_Publicacion>1982</Fecha_Publicacion>
+<Editorial>Minotauro</Editorial>
+<Ciudad_Editorial>Barcelona</Ciudad_Editorial>
+<Pais_Editorial>España</Pais_Editorial>
+</libro1>
+
+<libro2>
+<Título>Libros de Sangre</Título>
+<Descripción>Los relatos reunidos en este volumen han conmacionado a los lectores más veteranos de libros de terror, porque no repiten ninguno de los tópicos del género y cada historia abre las compuertas a una forma inédita de espanto, como la del viaje bajo las calles de Nueva York en el Tren de la Carne de Medianache; la necesidad de la muerte de ser satisfecha periodicamente; una batalla tradicional entre dos remotos pueblos de Yugaslavia que de repente se vuelve inesperadamente destructiva,y un largo etéctera más. Los Libros de Sangre son un campendio de oscuras visiones que se introducen en los sueños que se deslizan en secreto por nuestra subconsciente, aguardando para salir a la luz. Capaz de adentrarse tanto en lo inimaginable como en la indescriptible, Clive Barker revive nuestras pesadillas más profundas y siniestras, creando imágenes a la vez estremecedoras, conmovedoras y terroríficas.</Descripción>
+<Autor>Clive Barker</Autor>
+<Fecha_Publicacion>1984</Fecha_Publicacion>
+<Editorial>Sphere Books</Editorial>
+<Ciudad_Editorial>London</Ciudad_Editorial>
+<Pais_Editorial>Reino Unido</Pais_Editorial>
+</libro2>
+
+<libro3>
+<Título>En las Montañas de la Locura</Título>
+<Descripción>En las montañas de la locura narra la desastrosa expedición que realizan un grupo de expertos a la Antártida, en la que descubren unos seres biológicamente extraordinarios que llegaron a la tierra desde otro astro mucho antes de la aparición de la humanidad, y que fueron casi extinguidos por una especie de robots de su propia creación. El estilo visionario, solemne y lúgubre de Lovecraft —sin duda, uno de los más legítimos herederos de Poe— confiere a la alucinante narración un singular esplendor poético.</Descripción>
+<Autor>H.P. Lovecraft</Autor>
+<Fecha_Publicacion>1936</Fecha_Publicacion>
+<Editorial>	Analog Science Fiction and Fact</Editorial>
+<Ciudad_Editorial>Boston MA</Ciudad_Editorial>
+<Pais_Editorial>Estados Unidos</Pais_Editorial>
+</libro3>
+
+
+</Libros>

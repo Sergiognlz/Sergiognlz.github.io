@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<libreria xmlns:e1="http://www.mimagnificaweb.com/ejemplo1" xmlns:e2= "http://www.mimagnificaweb.com/ejemplo2">
+<e1:libro>
+<e1:titulo>El Hobbit</e1:titulo>
+<e1:descripcion>El día en que Bilbo Bolsón recibe la visita del mago Gandalf y de un grupo de enanos, su plácida existencia de hobbit cambia radicalmente. Elfos, dragones y un anillo mágico se cruzarán en la aventura más fantástica de toda su vida... </e1:descripcion>
+<e1:autor>J.R.R. Tolkien</e1:autor>
+<e1:fecha_publicacion>1982</e1:fecha_publicacion>
+<e1:editorial>Minotauro</e1:editorial>
+<e1:ciudad_editorial>Barcelona</e1:ciudad_editorial>
+<e1:pais_editorial>España</e1:pais_editorial>
+</e1:libro>
+
+<e1:libro>
+<e1:titulo>Libros de Sangre</e1:titulo>
+<e1:descripcion>Los relatos reunidos en este volumen han conmacionado a los lectores más veteranos de libros de terror, porque no repiten ninguno de los tópicos del género y cada historia abre las compuertas a una forma inédita de espanto, como la del viaje bajo las calles de Nueva York en el Tren de la Carne de Medianache; la necesidad de la muerte de ser satisfecha periodicamente; una batalla tradicional entre dos remotos pueblos de Yugaslavia que de repente se vuelve inesperadamente destructiva,y un largo etéctera más. Los Libros de Sangre son un campendio de oscuras visiones que se introducen en los sueños que se deslizan en secreto por nuestra subconsciente, aguardando para salir a la luz. Capaz de adentrarse tanto en lo inimaginable como en la indescriptible, Clive Barker revive nuestras pesadillas más profundas y siniestras, creando imágenes a la vez estremecedoras, conmovedoras y terroríficas.</e1:descripcion>
+<e1:autor>Clive Barker</e1:autor>
+<e1:fecha_publicacion>1984</e1:fecha_publicacion>
+<e1:editorial>Sphere Books</e1:editorial>
+<e1:ciudad_editorial>London</e1:ciudad_editorial>
+<e1:pais_editorial>Reino Unido</e1:pais_editorial>
+</e1:libro>
+
+<e1:libro>
+<e1:titulo>En las Montañas de la Locura</e1:titulo>
+<e1:descripcion>En las montañas de la locura narra la desastrosa expedición que realizan un grupo de expertos a la Antártida, en la que descubren unos seres biológicamente extraordinarios que llegaron a la tierra desde otro astro mucho antes de la aparición de la humanidad, y que fueron casi extinguidos por una especie de robots de su propia creación. El estilo visionario, solemne y lúgubre de Lovecraft —sin duda, uno de los más legítimos herederos de Poe— confiere a la alucinante narración un singular esplendor poético.</e1:descripcion>
+<e1:autor>H.P. Lovecraft</e1:autor>
+<e1:fecha_publicacion>1936</e1:fecha_publicacion>
+<e1:editorial>	Analog Science Fiction and Fact</e1:editorial>
+<e1:ciudad_editorial>Boston MA</e1:ciudad_editorial>
+<e1:pais_editorial>Estados Unidos</e1:pais_editorial>
+</e1:libro>
+
+<e2:autor>
+<e2:nombre>John Ronald Reuel</e2:nombre>
+<e2:apellido>Tolkien</e2:apellido>
+<e2:nacimiento>
+<e2:ciudad>Bloemfontein</e2:ciudad>
+<e2:pais>Sudáfrica</e2:pais>
+<e2:año>1892</e2:año>
+</e2:nacimiento>
+<e2:novelas>El Señor de los Anillos. El Hobbit. El Silmarillion</e2:novelas>
+</e2:autor>
+<e2:autor>
+<e2:nombre>Clive</e2:nombre>
+<e2:apellido>Barker</e2:apellido>
+<e2:nacimiento>
+<e2:ciudad>Liverpool</e2:ciudad>
+<e2:pais>Inglaterra</e2:pais>
+<e2:año>1952</e2:año>
+</e2:nacimiento>
+<e2:novelas>Libros de Sangre. Kabal. The Hellbound Heart</e2:novelas>
+</e2:autor>
+<e2:autor>
+<e2:nombre>Howard Phillips</e2:nombre>
+<e2:apellido>Lovecraft</e2:apellido>
+<e2:nacimiento>
+<e2:ciudad>Providence</e2:ciudad>
+<e2:pais>Estados Unidos</e2:pais>
+<e2:año>1890</e2:año>
+</e2:nacimiento>
+<e2:novelas>En las Montañas de la Locura. La llamada de Cthulhu. El Horror de Dunwich</e2:novelas>
+</e2:autor>
+
+</libreria>

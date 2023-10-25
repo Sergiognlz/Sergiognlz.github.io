@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<libreriaautor>
+<autor1>
+<nombre>John Ronald Reuel</nombre>
+<apellido>Tolkien</apellido>
+<nacimiento>
+<ciudad>Bloemfontein</ciudad>
+<pais>Sudáfrica</pais>
+<año>1892</año>
+</nacimiento>
+<novelas>El Señor de los Anillos. El Hobbit. El Silmarillion</novelas></autor1>
+<autor2>
+<nombre>Clive</nombre>
+<apellido>Barker</apellido>
+<nacimiento>
+<ciudad>Liverpool</ciudad>
+<pais>Inglaterra</pais>
+<año>1952</año>
+</nacimiento>
+<novelas>Libros de Sangre. Kabal. The Hellbound Heart</novelas>
+</autor2>
+<autor3>
+<nombre>Howard Phillips</nombre>
+<apellido>Lovecraft</apellido>
+<nacimiento>
+<ciudad>Providence</ciudad>
+<pais>Estados Unidos</pais>
+<año>1890</año>
+</nacimiento>
+<novelas>En las Montañas de la Locura. La llamada de Cthulhu. El Horror de Dunwich</novelas>
+</autor3>
+
+</libreriaautor>
